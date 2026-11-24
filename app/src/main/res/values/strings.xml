@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Little World</string>
+    <string name="title_full">A Little World Made for You</string>
+    <string name="intro_line_1">Some people make ordinary days feel a little more special.</string>
+    <string name="intro_line_2">A little world, made just for you.</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+    <string name="btn_tap_gift">Tap the Gift to Enter</string>
+    <string name="birthday_main_message">Happy Birthday! I hope this new chapter of your life brings you beautiful moments, unexpected happiness, unforgettable memories, and countless reasons to smile.</string>
+    <string name="final_secret_message">That\'s the end of this little world, but hopefully not the end of all the smiles it brought along.\n\nThank you for exploring it.\n\nKeep smiling, keep being yourself, and may life bring you countless beautiful moments.\n\nThis little website was made just to make your day a little brighter.</string>
+    <string name="developer_name">Sohom Giri</string>
+    <string name="developer_handle">\@itz_sg_063</string>
+    <string name="developer_role">Independent Web Developer / Creative Developer</string>
+    <string name="developer_instagram_url">https://www.instagram.com/itz_sg_063/</string>
+</resources>

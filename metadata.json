@@ -1,0 +1,6 @@
+{
+  "name": "Little World",
+  "description": "A Little World Made for You — interactive 3D birthday experience with liquid glass UI, letters, mini-games, 3D universe, virtual pet, and SG DataVault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
